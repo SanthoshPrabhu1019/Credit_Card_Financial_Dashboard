@@ -24,27 +24,27 @@ Contains demographic details for each customer.
 
 ### 1. **Credit Card Transaction Report**
 
-#### 📉 Quarterly Revenue and Transactions
+####  Quarterly Revenue and Transactions
 - **Chart Type**: Clustered Column + Line
 - **Insight**: Tracks revenue and transaction volume per quarter.
 - **Usage**: Understand seasonal trends and performance.
 
-#### 🛒 Revenue by Expenditure Type
+####  Revenue by Expenditure Type
 - **Chart Type**: Bar Chart
 - **Insight**: Breaks down revenue from various spending types (Bills, Travel, Grocery, etc.).
 - **Usage**: Helps optimize reward categories and marketing.
 
-#### 🎓 Revenue by Education Level
+####  Revenue by Education Level
 - **Chart Type**: Horizontal Bar
 - **Insight**: Shows revenue grouped by customer education level.
 - **Usage**: Tailor financial products based on educational background.
 
-#### 💳 Revenue by Card Category
+####  Revenue by Card Category
 - **Chart Type**: Stacked Column
 - **Insight**: Revenue comparison between card types (Blue, Silver, Gold, Platinum).
 - **Usage**: Identify best-performing card categories.
 
-#### 👷 Revenue by Customer Job
+####  Revenue by Customer Job
 - **Chart Type**: Bar Chart
 - **Insight**: Compares how much revenue comes from different job types.
 - **Usage**: Target customer segments with high revenue potential.
@@ -53,27 +53,27 @@ Contains demographic details for each customer.
 
 ### 2. **Customer Profile Dashboard**
 
-#### 📅 Revenue by Week
+####  Revenue by Week
 - **Chart Type**: Line Chart
 - **Insight**: Shows weekly revenue trend over the year.
 - **Usage**: Detect dips/spikes in revenue.
 
-#### 👩‍❤️‍👨 Revenue by Marital Status
+####  Revenue by Marital Status
 - **Chart Type**: Pie/Donut
 - **Insight**: How revenue is distributed between single and married individuals.
 - **Usage**: Understand spending behavior by marital status.
 
-#### 🧓 Revenue by Age Group
+####  Revenue by Age Group
 - **Chart Type**: Column Chart
 - **Insight**: Distribution of revenue across age segments.
 - **Usage**: Develop age-specific offers or campaigns.
 
-#### 💰 Revenue by CSS (Customer Satisfaction Score)
+####  Revenue by CSS (Customer Satisfaction Score)
 - **Chart Type**: Column Chart
 - **Insight**: Maps revenue against satisfaction score (1–5).
 - **Usage**: Study if happier customers spend more.
 
-#### 💵 Revenue by Income Group
+####  Revenue by Income Group
 - **Chart Type**: Column Chart
 - **Insight**: Categorizes revenue by customer income range (Low, Medium, High).
 - **Usage**: Validate pricing strategy and affordability.
