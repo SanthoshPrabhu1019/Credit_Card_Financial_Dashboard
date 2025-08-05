@@ -121,7 +121,7 @@ All custom measures and calculated columns used in Power BI are documented in [`
 
 ## 🙋 Contact
 
-Made with ❤️ by **Santhosh Prabhu**
+Made by **Santhosh Prabhu**
 
 📧 santhoshprabhu1019@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/santhosh-prabhu-67833a288/)  
